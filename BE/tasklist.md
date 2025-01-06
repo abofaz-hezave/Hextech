@@ -1,6 +1,6 @@
 Certainly! Here's the task list formatted in markdown with checkboxes:
 
-##Prior to hackathon
+## Prior to hackathon
 
 Certainly! Here's the streamlined checklist in markdown format:
 
