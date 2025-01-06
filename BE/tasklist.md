@@ -1,5 +1,48 @@
 Certainly! Here's the task list formatted in markdown with checkboxes:
 
+##Prior to hackathon
+
+Certainly! Here's the streamlined checklist in markdown format:
+
+### Essential Preparations for Hackathon
+
+#### Data Management
+- [ ] **Data Source Identification:** Identify where your product data will come from and ensure access.
+- [ ] **Sample Data Preparation:** Prepare a small sample dataset in the format you'll use (e.g., JSON, CSV).
+- [ ] **Basic Schema Design:** Outline a simple schema for storing product attributes in DynamoDB.
+
+#### AI and NLP Processing
+- [ ] **Model Selection:** Choose pre-trained models or services (e.g., Amazon Bedrock) that fit your needs.
+- [ ] **Basic NLP Setup:** Set up basic intent recognition for common user queries.
+- [ ] **Conversational Flow Outline:** Draft a simple conversation flow with key interactions.
+
+#### Recommendation Engine
+- [ ] **Simple Matching Logic:** Develop basic logic to match user inputs with product tags.
+- [ ] **Relevance Criteria:** Define simple criteria for ranking product recommendations.
+
+#### API Development
+- [ ] **Core API Endpoints:** Sketch out essential API endpoints needed for frontend integration.
+- [ ] **Basic Security Measures:** Plan minimal security measures to protect API access.
+
+#### Frontend Integration
+- [ ] **Data Format Agreement:** Agree on data formats for communication between backend and frontend.
+- [ ] **Media Handling Plan:** Decide how product images and other media will be delivered.
+
+#### Testing and Deployment
+- [ ] **Basic Testing Strategy:** Outline simple tests to verify core functionalities.
+- [ ] **Deployment Plan:** Choose tools for quick deployment (e.g., AWS Lambda, Heroku).
+
+#### Miscellaneous
+- [ ] **Error Handling Strategy:** Plan basic error handling to manage common issues.
+- [ ] **Documentation Basics:** Prepare brief documentation for APIs and system architecture.
+
+
+This checklist is designed to help you focus on preparing the essential building blocks for your project, so you can efficiently assemble and demonstrate your solution during the hackathon.
+
+
+##General List 
+
+
 ### Data Management
 - [ ] Specify original data source and format.
 - [ ] Plan data ingestion into DynamoDB (ETL processes or direct API integration).
@@ -44,6 +87,5 @@ Certainly! Here's the task list formatted in markdown with checkboxes:
 - [ ] Set up logging mechanisms for monitoring and debugging.
 - [ ] Document APIs and system architecture for team collaboration.
 - [ ] Use version control and issue tracking tools.
-
 
 This checklist should help guide your backend development process and ensure that you cover all critical aspects prior to the hackathon.
