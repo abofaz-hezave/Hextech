@@ -52,7 +52,7 @@ An AI chatbot that interacts with users to **understand their needs**, **ask rel
    - AI asks clarifying questions about size, style, and preferences.
 
 2. **AI Processing Stage:**
-   - Understands the query and matches filters in DynamoDB.
+   - Understands the query and matches filters in DynamoDB or any other
    - Refines results based on follow-ups (e.g., “Do you prefer dresses or suits?”).
 
 3. **Output Stage:**

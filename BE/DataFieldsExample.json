@@ -1,0 +1,28 @@
+{
+    "products": [
+      {
+        "productId": "12345",
+        "name": "Elegant White Dress",
+        "description": "A beautiful white dress perfect for formal occasions.",
+        "price": 79.99,
+        "category": "Dresses",
+        "tags": ["formal", "white", "wedding"],
+        "sizeOptions": ["S", "M", "L"],
+        "colorOptions": ["White"],
+        "imageUrl": "https://example.com/images/white-dress.jpg",
+        "stock": 15
+      },
+      {
+        "productId": "67890",
+        "name": "Classic Black Suit",
+        "description": "A timeless black suit suitable for any formal event.",
+        "price": 199.99,
+        "category": "Suits",
+        "tags": ["formal", "black", "wedding"],
+        "sizeOptions": ["M", "L", "XL"],
+        "colorOptions": ["Black"],
+        "imageUrl": "https://example.com/images/black-suit.jpg",
+        "stock": 10
+      }
+    ]
+}
